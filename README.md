@@ -1,2 +1,4 @@
 # Historya
-HISTORYa is a android mobile game application that uses a quiz-like game structure to give elementary grade Filipino history education. 
+
+HISTORYa is an Android mobile game application with a quiz-like structure to give elementary-grade Filipino history education. 
+DEVS: ANGELO LUIS SALAK, JULIUS CAESAR PINEDA, GIAN KYLE PUA, LORENZ JEFFERSON GAVINO
