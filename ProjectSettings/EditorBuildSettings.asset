@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 43f43a1ae960eca44918fc562cc08368
+  - enabled: 1
+    path: Assets/Scenes/Level_Select.unity
+    guid: 9d3e40ed8d30e174bb43079d9fdd8840
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 540218065af9309479d4da84fc9dd166
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: 0343f5b7a57e56e46ab20f762ff77f0c
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: dfddf7633a958024594ae7ed96b04b5d
+  - enabled: 1
+    path: Assets/Scenes/Level_5.unity
+    guid: 397c37c9abc4804479e4e353c55ed8d0
+  - enabled: 1
+    path: Assets/Scenes/Level_6.unity
+    guid: 49e1dd99bf399c840b197c4fbaa1f2f4
+  - enabled: 1
+    path: Assets/Scenes/Level_7.unity
+    guid: 7c1c13881f44f344c9175d65bb57a809
+  - enabled: 1
+    path: Assets/Scenes/Level_8.unity
+    guid: c21183d446667514785ff1432e2aa987
+  - enabled: 1
+    path: Assets/Scenes/Level_9.unity
+    guid: fe5914149e7c3784ca1cecbb7594f368
+  - enabled: 1
+    path: Assets/Scenes/Level_10.unity
+    guid: 25e565fc296424d42abb9da832f12862
+  - enabled: 1
+    path: Assets/Scenes/Level_1_Boss.unity
+    guid: d8728ecc1a32c76468e2f32753459e25
+  - enabled: 1
+    path: Assets/Scenes/Level_1_Boss_2.unity
+    guid: a2192a0d1d025724a8c3a82fc64d04f6
+  - enabled: 1
+    path: Assets/Scenes/Level_2_Boss.unity
+    guid: 9ea86d5dd1cac204680376d437bfac0f
+  - enabled: 1
+    path: Assets/Scenes/Level_2_Boss_2.unity
+    guid: bf0771c65a1a6db49ba6afabf73679cb
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Boss.unity
+    guid: 12b545e8e09c7394fb17bbde9a3f78fe
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Boss_2.unity
+    guid: 87b3f67be8ddfb54c881ba2af24ad436
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Boss_3.unity
+    guid: 35c51c9b8635c9a46acde48734f94aa4
+  - enabled: 1
+    path: Assets/Scenes/Level_4_Boss.unity
+    guid: fd42224111a034d4a8a89b1d66a3968a
+  - enabled: 1
+    path: Assets/Scenes/Level_4_Boss_2.unity
+    guid: e064807a6c95df149bad6dd3c87e3a27
+  - enabled: 1
+    path: Assets/Scenes/Level_5_Boss.unity
+    guid: 33b3377f2c6ee4844a1fe69439e942fa
+  - enabled: 1
+    path: Assets/Scenes/Level_5_Boss_2.unity
+    guid: 0180a28e98023314ea092e7a24527d0d
+  - enabled: 1
+    path: Assets/Scenes/Level_6_Boss.unity
+    guid: 8f8c38f09e82d24459c96622a924e955
+  - enabled: 1
+    path: Assets/Scenes/Level_6_Boss_2.unity
+    guid: c6902e2ab1e0a1c43b24a4fde6a50616
+  - enabled: 1
+    path: Assets/Scenes/Level_7_Boss.unity
+    guid: e1f58f5f8d62409488b75dea7fc21092
+  - enabled: 1
+    path: Assets/Scenes/Level_7_Boss_3.unity
+    guid: 871adae4c5c7b9c4db22b535ee936c8b
+  - enabled: 1
+    path: Assets/Scenes/Level_8_Boss.unity
+    guid: 31d106188c44d1a448be49a3acc44bbe
+  - enabled: 1
+    path: Assets/Scenes/Level_8_Boss_2.unity
+    guid: f716ab3d174c4994b8f4c1011954cd33
+  - enabled: 1
+    path: Assets/Scenes/Level_9_Boss.unity
+    guid: e41ff74506c0acf41855b8ef3290778d
+  - enabled: 1
+    path: Assets/Scenes/Level_9_boss_2.unity
+    guid: 75f70dd0502691e46a3f8209dd192f49
+  - enabled: 1
+    path: Assets/Scenes/Level_9_Boss_3.unity
+    guid: 9c3619d43fb740948ac6650380316717
+  - enabled: 1
+    path: Assets/Scenes/Level_10_Boss.unity
+    guid: 4ded7f1146e47e241be1d782dabc97b1
+  - enabled: 1
+    path: Assets/Scenes/Level_10_Boss_2.unity
+    guid: af55c691254949146a8476c76123d81a
+  - enabled: 1
+    path: Assets/Scenes/Achievements.unity
+    guid: 7ded6ad18ac0046449a2fd67d830de8c
+  - enabled: 1
+    path: Assets/Scenes/Study 2.unity
+    guid: c78e0ac9a35478742ab4fdafd90ce8d7
+  - enabled: 1
+    path: Assets/Scenes/MODULE 1.unity
+    guid: b8157fa12605cda479382e362b8922e4
+  - enabled: 1
+    path: Assets/Scenes/MODULE 2.unity
+    guid: d97cd95ad44cedd49bbd4fd28c185683
+  - enabled: 1
+    path: Assets/Scenes/MODULE 3.unity
+    guid: 4d41d39c4fdb61344b7d9c59519ed865
+  - enabled: 1
+    path: Assets/Scenes/MODULE 4.unity
+    guid: 55e9e964ee47e264aa20438ed973e3bc
+  - enabled: 1
+    path: Assets/Scenes/MODULE 5.unity
+    guid: 09b563528aff0764fa594f295d71bff7
+  - enabled: 1
+    path: Assets/Scenes/MODULE 6.unity
+    guid: 4e6daf1926e96bb4fa677b21a96e8797
+  - enabled: 1
+    path: Assets/Scenes/MODULE 7.unity
+    guid: f94f12e97edc4dc4783974af53b98519
+  - enabled: 1
+    path: Assets/Scenes/MODULE 8.unity
+    guid: 2e112f7986a175f4eab19ca06a9efe78
+  - enabled: 1
+    path: Assets/Scenes/Story page 1.unity
+    guid: f023e76acf4c9be4c9a412e0309d3259
+  - enabled: 1
+    path: Assets/Scenes/Story page 2.unity
+    guid: d7ec7d6c6546ea7438bc4380330dfb81
+  - enabled: 1
+    path: Assets/Scenes/Story page 3.unity
+    guid: 69d13574207b74d4081a68da973c268d
+  - enabled: 1
+    path: Assets/Scenes/Story page 4.unity
+    guid: ca5bf452d9ebcd44198ea2ca27927f15
+  - enabled: 1
+    path: Assets/Scenes/Story page 5.unity
+    guid: a62fc109970019b43a7be00014953fb7
+  - enabled: 1
+    path: Assets/Scenes/Story page 6.unity
+    guid: ccd2adfe261002443a142c49acade44e
+  - enabled: 1
+    path: Assets/Scenes/Story page 7.unity
+    guid: 4a4a0dd8ee6f74f4a9b823e0fd5b991e
+  - enabled: 1
+    path: Assets/Scenes/Study 1.unity
+    guid: e92882e6c65ae224caaee85c257c3b5d
+  - enabled: 1
+    path: Assets/Scenes/Study Choose quarter.unity
+    guid: 8b69aa9283da6484fa9081f038d09567
+  - enabled: 1
+    path: Assets/Scenes/1st_MODULE 1.unity
+    guid: 439d2b476e1f3b0419db939a72bc7a74
+  - enabled: 1
+    path: Assets/Scenes/1st_MODULE 2.unity
+    guid: b2de92f3202f6a841ac60ecbe3228dc5
+  - enabled: 1
+    path: Assets/Scenes/1st_MODULE 3.unity
+    guid: 061a301cca33c2a45ac7f31e633986bc
+  - enabled: 1
+    path: Assets/Scenes/1st_MODULE 4.unity
+    guid: 0a7859cabb680444ab925f99b0e7c369
+  - enabled: 1
+    path: Assets/Scenes/1st_MODULE 5.unity
+    guid: c979bd636cb480648b0617525ed151b0
+  - enabled: 1
+    path: Assets/Scenes/1st_MODULE 6.unity
+    guid: 017624ce068e9b140823a1435660fc07
+  - enabled: 1
+    path: Assets/Scenes/1st_MODULE 7.unity
+    guid: 2cc46cb924b24be429a43042cc9e519b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 004d5dfe6d7e74a47a46c91c5f517f08, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 78f82acde3d40d341a131ac500963bd2, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: c984d2229331b124180592d96d44f935, type: 2}
